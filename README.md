@@ -2,23 +2,31 @@
 
 Community Art for Stremio
 
+## The Gallery
+
+All images and videos included in this repository are also visible in the [Stremio Art Gallery](https://art.stremio.com/).
+
 
 ## Submitting Art
 
-- All submissions **must be related** to Stremio, the Stremio Logo and/or Stremurrr (the Stremio mascot) to be accepted
+**Submitting:**
+
 - Requires a (free) GitHub Account
 - Original images must be added to the `originals` folder
 - Thumbnails must be added to the `thumbnails` folder
 - Create a Pull Request to this repository with the changes
 
-**Images:** Original images must have have a minimum of 400px in width, thumbnails must be resized to exactly 400px width, we accept: png, jpg, gif, svg (svg does not require a thumbnail)
+**Acceptance rules:**
 
-**Video:** All videos should be added to the `originals` folder, do not require a thumbnail added, we accept only: mp4
+- This digital gallery is for art, not user interface redesigns
+- All submissions **must be related** to Stremio, the Stremio Logo and/or Stremurrr (the Stremio mascot) to be accepted
+- **Images:** Original images must have have a minimum of 400px in width, thumbnails must be resized to exactly 400px width, we accept: png, jpg, gif, svg (svg does not require a thumbnail)
+- **Video:** All videos should be added to the `originals` folder, do not require a thumbnail added, we accept only: mp4
 
 
 ### For the non-tech savy
 
-After creating a github account:
+To submit artwork, after creating a github account:
 
 - press the "Fork" button on this page (upper right corner, after forking you will be redirected to your own clone of this repository on GitHub)
 - press the "originals" folder
@@ -29,8 +37,3 @@ After creating a github account:
 - add your thumbnail image (max 400px width, filename must be identical to the one from folder `originals`)
 - press "stremio-art" (upper left corner) to go back to the main folders
 - there should be a message visible now asking if you wish to create a pull request, do so and you are done, a member of the Stremio team will then review your submission for acceptance
-
-
-## The Gallery
-
-All images and videos included in this repository are also visible in the [Stremio Art Gallery](https://art.stremio.com/).
