@@ -8,8 +8,12 @@ Community Art for Stremio
 - All submissions **must be related** to Stremio, the Stremio Logo and/or Stremurrr (the Stremio mascot) to be accepted
 - Requires a (free) GitHub Account
 - Original images must be added to the `originals` folder
-- Thumbnails (max 400px width) must be added to the `thumbnails` folder
+- Thumbnails must be added to the `thumbnails` folder
 - Create a Pull Request to this repository with the changes
+
+**Images:** Original images must have have a minimum of 400px in width, thumbnails must be resized to exactly 400px width, we accept: png, jpg, gif, svg (svg does not require a thumbnail)
+
+**Video:** All videos should be added to the `originals` folder, do not require a thumbnail added, we accept only: mp4
 
 
 ### For the non-tech savy
